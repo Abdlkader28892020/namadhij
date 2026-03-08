@@ -1,0 +1,27 @@
+{
+  "name": "نماذج الرسالة",
+  "short_name": "نماذج الرسالة",
+  "description": "مكتبة الملفات التعليمية للطلاب والمدرسة",
+  "start_url": "/namadhij/",
+  "scope": "/namadhij/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8f7ff",
+  "theme_color": "#7c3aed",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "https://files.catbox.moe/kgyx71.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://files.catbox.moe/kgyx71.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
